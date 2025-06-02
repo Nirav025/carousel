@@ -1,6 +1,6 @@
 # 📁Simple Image Slider (carousel) :
 
-A simple web application that allows users to input numbers into an array and perform basic calculations.
+ A basic image slider (carousel) built using HTML, Bootstrap, and JavaScript. It features manual navigation controls and a clean design.
 
 ## 🚀 Features :
 
